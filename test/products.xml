@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artiklar xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<skapad-tid>2016-01-11 05:00</skapad-tid>
+	<info>
+		<meddelande>Läs användarvillkoren på www.systembolaget.se. Begreppet Modul används inte längre i Systembolagets verksamhet. Det innebär att det även har tagits bort från våra API-filer.</meddelande>
+	</info>
+	<artikel>
+		<nr>101</nr>
+		<Artikelid>1</Artikelid>
+		<Varnummer>1</Varnummer>
+		<Namn>Renat</Namn>
+		<Namn2 />
+		<Prisinklmoms>205.00</Prisinklmoms>
+		<Volymiml>700.00</Volymiml>
+		<PrisPerLiter>292.86</PrisPerLiter>
+		<Saljstart>1993-10-01</Saljstart>
+		<Slutlev />
+		<Varugrupp>Okryddad sprit</Varugrupp>
+		<Forpackning>Flaska</Forpackning>
+		<Forslutning />
+		<Ursprung />
+		<Ursprunglandnamn>Internationellt märke</Ursprunglandnamn>
+		<Producent>Pernod Ricard</Producent>
+		<Leverantor>Pernod Ricard Sweden AB</Leverantor>
+		<Argang />
+		<Provadargang />
+		<Alkoholhalt>37.50%</Alkoholhalt>
+		<Sortiment>FS</Sortiment>
+		<Ekologisk>0</Ekologisk>
+		<Koscher>0</Koscher>
+		<RavarorBeskrivning>Förr potatis numera endast säd.</RavarorBeskrivning>
+	</artikel>
+</artiklar>

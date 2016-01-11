@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ButikerOmbud xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Info>
+		<Meddelande>Läs användarvillkoren på www.systembolaget.se</Meddelande>
+	</Info>
+	<ButikOmbud xsi:type="StoreAssortmentViewModel">
+		<Typ>Butik</Typ>
+		<Nr>0102</Nr>
+		<Namn>Fältöversten</Namn>
+		<Address1>Karlaplan 13</Address1>
+		<Address2 />
+		<Address3>115 20</Address3>
+		<Address4>STOCKHOLM</Address4>
+		<Address5>Stockholms län</Address5>
+		<Telefon>08/662 22 89</Telefon>
+		<ButiksTyp />
+		<Tjanster />
+		<SokOrd>STOCKHOLM;STHLM;ÖSTERMALM;KARLAPLANSRONDELLEN;FÄLTAN</SokOrd>
+		<Oppettider>2016-01-11;10:00;19:00;;;0;_*2016-01-12;10:00;19:00;;;0;_*2016-01-13;10:00;19:00;;;0;_*2016-01-14;10:00;19:00;;;0;_*2016-01-15;10:00;19:00;;;0;_*2016-01-16;10:00;15:00;;;0;_*2016-01-17;00:00;00:00;;;-;_*2016-01-18;10:00;19:00;;;0;_*2016-01-19;10:00;19:00;;;0;_*2016-01-20;10:00;19:00;;;0;_*2016-01-21;10:00;19:00;;;0;_*2016-01-22;10:00;19:00;;;0;_*2016-01-23;10:00;15:00;;;0;_*2016-01-24;00:00;00:00;;;-;_*2016-01-25;10:00;19:00;;;0;_*2016-01-26;10:00;19:00;;;0;</Oppettider>
+		<RT90x>6582011</RT90x>
+		<RT90y>1630064</RT90y>
+	</ButikOmbud>
+</ButikerOmbud>

@@ -1,0 +1,34 @@
+{
+  "name": "systemet",
+  "version": "0.1.0",
+  "description": "Get data from Systembolaget",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joakimbeng/systemet.git"
+  },
+  "keywords": [
+    "systembolaget"
+  ],
+  "author": "Joakim Carlstein <joakim.carlstein@gmail.com> (http://joakim.beng.se/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joakimbeng/systemet/issues"
+  },
+  "homepage": "https://github.com/joakimbeng/systemet#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "got": "^6.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.9.1",
+    "nock": "^5.2.1",
+    "xo": "^0.12.1"
+  }
+}
