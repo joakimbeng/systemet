@@ -1,6 +1,6 @@
 {
   "name": "systemet",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Get data from Systembolaget",
   "main": "src/index.js",
   "directories": {
